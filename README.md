@@ -81,3 +81,33 @@ This enables executives to quickly spot margin leakage and take action.
  Rising input costs
  Fixed pricing structures
  Low pricing power in accessories
+
+💡 Pricing & Portfolio Recommendations
+❌ Discontinue or Aggressively Reprice (≥ 25%)
+
+The following products are structurally weak and dilute overall profitability:
+
+Chemex Filters
+Lowest total gross margin (16.31%)
+
+Minimalist Keychain
+
+Logo Hoodie
+
+Action: Immediate review. Either discontinue or apply a steep price increase to justify continued production.
+
+⚠️ Price Adjustment Required
+
+Gooseneck Electric Kettle
+
+Action: Moderate price increase to restore gross margin above the 30% minimum threshold.
+
+📌 Business Justification
+
+These actions are necessary because:
+
+Rising COGS has made certain SKUs economically inefficient
+
+Low-margin items consume operational capacity without proportional returns
+
+Strategic pruning improves overall portfolio health and pricing power
