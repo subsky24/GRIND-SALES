@@ -59,7 +59,7 @@ Gross Margin Percentage (GMP)
 
 
 📈 Dashboard Features
-   The Power BI dashboard provides:
+     The Power BI dashboard provides:
      . Year-over-Year Gross Margin % Trend
      . Revenue Breakdown by:
      . Product Category
