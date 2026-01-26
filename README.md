@@ -36,6 +36,8 @@ Power BI – Data modeling, DAX measures, dashboards, insights
 
 Power Query – Minor transformations and data validation
 
-🔄 Data Integration Logic (SQL)
-Consolidating Orders Across Years
+ # 🔄 Data Integration Logic (SQL)
+ Consolidating Orders Across Years
+
+![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(306).png?raw=true)
 
