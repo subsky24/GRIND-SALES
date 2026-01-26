@@ -1,5 +1,6 @@
 # GRIND-SALES
-##Coffee Sales Portfolio Optimization (2023–2025)
+## Coffee Sales Portfolio Optimization (2023–2025)
+
 📌 Project Overview
 
 This project analyzes coffee business sales performance across 2023–2025 to address a critical business challenge: declining profit margins caused by rising costs of goods, tariffs, and operational pressures.
@@ -14,6 +15,7 @@ The company has observed a significant decline in gross profit margins across it
 Key Business Question
 
 Which products are underperforming on margin, and should they be repriced or discontinued to protect overall profitability?
+
 🗂️ Datasets Used
 
 The analysis integrates multiple datasets:
