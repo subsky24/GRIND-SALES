@@ -51,3 +51,5 @@ Power BI Data Model & Measures
 KPI Selector Measure (Dynamic Metric Switching)
 
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(305).png?raw=true)
+
+Gross Margin Percentage (GMP)
