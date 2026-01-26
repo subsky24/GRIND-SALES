@@ -73,3 +73,11 @@ This enables executives to quickly spot margin leakage and take action.
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(304).png?raw=true)
 
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(304).png?raw=true)
+
+
+🔍 Key Insights (Q3 Focus)
+ Multiple products fall below the 30% gross margin threshold
+ Low-margin products are largely driven by:
+ Rising input costs
+ Fixed pricing structures
+ Low pricing power in accessories
