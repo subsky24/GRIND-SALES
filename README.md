@@ -53,4 +53,19 @@ KPI Selector Measure (Dynamic Metric Switching)
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(305).png?raw=true)
 
 Gross Margin Percentage (GMP)
+
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(307).png?raw=true)
+
+
+
+📈 Dashboard Features
+   The Power BI dashboard provides:
+     . Year-over-Year Gross Margin % Trend
+     . Revenue Breakdown by:
+     . Product Category
+     . Product
+     . Region
+     . Q3 Margin Filter to isolate underperforming products
+     . Dynamic KPI Cards (Revenue, Profit, Quantity, Margin)
+
+This enables executives to quickly spot margin leakage and take action.
