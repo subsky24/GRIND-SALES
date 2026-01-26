@@ -69,3 +69,5 @@ Gross Margin Percentage (GMP)
      . Dynamic KPI Cards (Revenue, Profit, Quantity, Margin)
 
 This enables executives to quickly spot margin leakage and take action.
+
+![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(304).png?raw=true)
