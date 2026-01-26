@@ -36,8 +36,14 @@ Power BI – Data modeling, DAX measures, dashboards, insights
 
 Power Query – Minor transformations and data validation
 
- # 🔄 Data Integration Logic (SQL)
+  🔄 Data Integration Logic (SQL)
  Consolidating Orders Across Years
 
 ![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(306).png?raw=true)
+
+Why This Matters
+. Ensures full historical coverage (2023–2025)
+. Fixes missing revenue values
+. Creates a clean profit field used directly in Power BI
+. Produces a single analytical table for modeling
 
