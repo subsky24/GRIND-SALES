@@ -47,3 +47,5 @@ Why This Matters
   . Creates a clean profit field used directly in Power BI
   . Produces a single analytical table for modeling
 
+Power BI Data Model & Measures
+KPI Selector Measure (Dynamic Metric Switching)
