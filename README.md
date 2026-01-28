@@ -74,7 +74,7 @@ Gross Margin Percentage (GMP)
 
 This enables executives to quickly spot margin leakage and take action.
 
-
+!image-URL)(ttps://drive.google.com/file/d/1huIKzEa05RH8I7Y34zMljyiY4A-sm7rY/view?usp=sharing)
 
 🔍 Key Insights (Q3 Focus)
 
