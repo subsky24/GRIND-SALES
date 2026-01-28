@@ -58,8 +58,7 @@ KPI Selector Measure (Dynamic Metric Switching)
 
 Gross Margin Percentage (GMP)
 
-![image-URL](https://github.com/subsky24/GRIND-SALES/blob/main/IMAGES/Screenshot%20(307).png?raw=true)
-
+https://github.com/user-attachments/assets/a0f8cc59-e44e-4614-b0bd-36dec2ff96e8
 
 
 📈 Dashboard Features
